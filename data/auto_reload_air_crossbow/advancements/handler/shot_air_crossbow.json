@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "air": {
+      "trigger": "shot_crossbow",
+      "conditions": {
+        "item": {
+          "nbt": "{ChargedProjectiles: [{id: \"minecraft:air\"}]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "auto_reload_air_crossbow:handler/shot_air_crossbow"
+  }
+}

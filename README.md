@@ -10,8 +10,6 @@ auto_reload_air_crossbow
 
 ## Requirement
 
-- [player_event](https://github.com/a-happin/player_event)
-
 ## Installation
 
 ## License
